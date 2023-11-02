@@ -12,7 +12,7 @@
 ## 🌐 About Hariesh
 
 🎓 **AI Enthusiast & Creative Innovator**  
-🏫 Third-Year Student at Kongu Engineering College  
+🏫 Third-year student at Kongu Engineering College  
 🎯 Graduation Horizon: 2025  
 🌱 On a quest to push the boundaries of **Artificial Intelligence** & **Machine Learning**
 
@@ -33,7 +33,7 @@
 <h3 align="center">🌠 Current Adventures in AI</h3>
 <p align="center">
     🌌 Deep Diving into <strong>Deep Learning</strong>, Virtual & Augmented Realities  
-    🤖 Passionate about Human-Computer Interaction & Ethical AI  
+    🤖 Passionate about Human-Computer Interaction and ethical AI  
     🛡️ Championing Responsible and Transformative Technologies  
 </p>
 
@@ -78,13 +78,5 @@
     <a href="https://github.com/Hariesh-Kai">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" />
     </a>
-     <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariesh-Kai&theme=radical" alt="Hariesh's GitHub Streak" />
-    </a>
-    <a href="https://github.com/Hariesh-Kai">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&theme=radical" alt="Hariesh's GitHub Contribution Graph" />
-    </a>
-
-    
 </div>
 
