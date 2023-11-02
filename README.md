@@ -81,6 +81,8 @@ With AI as my compass, I'm navigating towards a future where tech is synonymous 
 
 <div align="center">
 
-[![Harriesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&theme=xcode)](https://git.io/hariesh)
+[![Hariesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical)](https://github.com/Hariesh-Kai)
+
+[![Hariesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&theme=xcode)](https://github.com/Hariesh-Kai)
 
 </div>
