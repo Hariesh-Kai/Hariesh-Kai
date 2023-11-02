@@ -90,5 +90,8 @@ With AI as my compass, I'm navigating towards a future where tech is synonymous 
     <a href="https://github.com/Hariesh-Kai">
         <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=tokyonight" alt="Hariesh's GitHub Stats" />
     </a>
+    <br>
+    <a href="https://github.com/Hariesh-Kai">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&bg_color=1A1B27&color=70a5fd&line=bf91f3&point=fb8c00&area=true&hide_border=true" alt="Hariesh's GitHub Activity Graph" />
+    </a>
 </div>
-
