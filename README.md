@@ -1,97 +1,78 @@
 <div align="center">
-
-<div align="center" style="background-color: #1A1B27; color: white; padding: 20px; border-radius: 10px; position: relative;">
-    <h1 style="animation: moveText 5s infinite alternate;">👋 Welcome to Hariesh's Universe!</h1>
-    <p>Exploring the Frontiers of Artificial Intelligence & Machine Learning</p>
-
-    <style>
-        @keyframes moveText {
-            0%   { top: 0px; }
-            100% { top: 10px; }
-        }
-    </style>
+    <h2>🌟 Welcome to Hariesh's AI Odyssey 🌟</h2>
+    <h3>🚀 Journeying Through the Cosmos of AI & Machine Learning</h3>
 </div>
 
-## 👋 Welcome to My Universe!
-
-<p>
-🎓 <b>Hariesh</b> | Aspiring AI Specialist | Third-year at Kongu Engineering College
-<br>
-I'm on a journey to push the boundaries of <b>Artificial Intelligence</b> & <b>Machine Learning</b>, aiming for a graduation horizon in 2025.
-</p>
-
----
-
-</div>
-
-<h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
-  
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)
-
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px"/>
 </div>
 
 ---
 
-<h3 align="center">🚀 Current Endeavors</h3>
+## 🌐 About Hariesh
 
+🎓 **AI Enthusiast & Creative Innovator**  
+🏫 Third-Year Student at Kongu Engineering College  
+🎯 Graduation Horizon: 2025  
+🌱 On a quest to push the boundaries of **Artificial Intelligence** & **Machine Learning**
+
+---
+
+<h3 align="center">🛠️ My Tech Toolkit</h3>
 <p align="center">
-Exploring the depths of <b>Deep Learning</b>, VR, AR, and all things AI. My focus also encompasses HCI and the ethics surrounding AI. I'm a staunch advocate for responsible and transformative tech.
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
-
-<div align="center">
-
-![AI Ethical](https://img.shields.io/badge/-AI%20Ethics-764ABC?style=flat)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F42?style=flat)
-![VR](https://img.shields.io/badge/-Virtual%20Reality-1A74DA?style=flat)
-
-</div>
 
 ---
 
-<h3 align="center">🌌 Vision & Ambitions</h3>
-
+<h3 align="center">🌠 Current Adventures in AI</h3>
 <p align="center">
-Harnessing the power of AI to craft immersive virtual worlds that redefine user experiences. Inspired by the limitless canvas of anime & light novels, I aspire to merge creativity with technology.
+    🌌 Deep Diving into <strong>Deep Learning</strong>, Virtual & Augmented Realities  
+    🤖 Passionate about Human-Computer Interaction & Ethical AI  
+    🛡️ Championing Responsible and Transformative Technologies  
 </p>
 
 ---
 
-<h3 align="center">🌟 Future Horizons</h3>
+<h3 align="center">🔭 Vision & Aspirations</h3>
 <p align="center">
-With AI as my compass, I'm navigating towards a future where tech is synonymous with positive societal impact. Let's shape this vision together.
+    🎨 Inspired by Anime & Light Novels  
+    💡 Aspiring to Merge Creativity with Cutting-Edge Tech  
+    🌍 Dreaming of AI-Enhanced Virtual Worlds that Transform Experiences  
 </p>
 
 ---
 
-<h3 align="center">🌐 Let's Connect & Collaborate</h3>
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072B1?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hariesh-r)
-<!--[![Twitter](https://img.shields.io/badge/-Twitter-1C9CEA?style=flat&logo=Twitter&logoColor=white)](LINK_TO_YOUR_TWITTER)-->
-
-</div>
+<h3 align="center">🌈 Future Horizons</h3>
+<p align="center">
+    🧭 Guided by AI to a Future Where Technology Equals Positive Impact  
+    👥 Eager to Collaborate and Shape a Visionary Tech-Driven World  
+</p>
 
 ---
 
-<!--<div align="center">
-
-[![Hariesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=tokyonight)](https://github.com/Hariesh-Kai)
-
-[![Hariesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&bg_color=1A1B27&color=70a5fd&line=bf91f3&point=fb8c00&area=true&hide_border=true)](https://github.com/Hariesh-Kai)
-
-</div> -->
-<div align="center">
-    <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=tokyonight" alt="Hariesh's GitHub Stats" />
+<h3 align="center">🔗 Connect & Collaborate</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/hariesh-r">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
-    <br>
+    <!-- Uncomment and replace 'LINK_TO_YOUR_TWITTER' with your Twitter link
+    <a href="LINK_TO_YOUR_TWITTER">
+        <img src="https://img.shields.io/badge/-Twitter-1C9CEA?style=for-the-badge&logo=Twitter&logoColor=white" />
+    </a>
+    -->
+</p>
+
+---
+
+<div align="left">
     <a href="https://github.com/Hariesh-Kai">
-        <img src="https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&bg_color=1A1B27&color=70a5fd&line=bf91f3&point=fb8c00&area=true&hide_border=true" alt="Hariesh's GitHub Activity Graph" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" />
     </a>
 </div>
+
