@@ -81,8 +81,9 @@ With AI as my compass, I'm navigating towards a future where tech is synonymous 
 
 <div align="center">
 
-[![Hariesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical)](https://github.com/Hariesh-Kai)
+[![Hariesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=tokyonight)](https://github.com/Hariesh-Kai)
 
-[![Hariesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&theme=xcode)](https://github.com/Hariesh-Kai)
+[![Hariesh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&bg_color=1A1B27&color=70a5fd&line=bf91f3&point=fb8c00&area=true&hide_border=true)](https://github.com/Hariesh-Kai)
 
 </div>
+
