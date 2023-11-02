@@ -76,7 +76,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" style="width: 48%;" />
 </a>
 <a href="https://github.com/Hariesh-Kai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" style="width: 42%;" />
 </a>
 
 </div>
