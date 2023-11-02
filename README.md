@@ -71,8 +71,24 @@
 ---
 
 <div align="left">
+    <!-- GitHub Stats -->
     <a href="https://github.com/Hariesh-Kai">
         <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" />
+    </a>
+
+    <!-- Most Used Languages -->
+    <a href="https://github.com/Hariesh-Kai">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" />
+    </a>
+    
+    <!-- GitHub Streak -->
+    <a href="https://github.com/Hariesh-Kai">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariesh-Kai&theme=radical" alt="Hariesh's GitHub Streak" />
+    </a>
+    
+    <!-- GitHub Contribution Graph -->
+    <a href="https://github.com/Hariesh-Kai">
+        <img src="https://activity-graph.herokuapp.com/graph?username=Hariesh-Kai&theme=radical" alt="Hariesh's GitHub Contribution Graph" />
     </a>
 </div>
 
