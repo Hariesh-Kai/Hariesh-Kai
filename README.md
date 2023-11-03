@@ -29,47 +29,6 @@
 </p>
 
 ---
-
-<h3 align="center">🌠 Current Adventures in AI</h3>
-<p align="center">
-    🌌 Deep Diving into <strong>Deep Learning</strong>, Virtual & Augmented Realities  
-    🤖 Passionate about Human-Computer Interaction and ethical AI  
-    🛡️ Championing Responsible and Transformative Technologies  
-</p>
-
----
-
-<h3 align="center">🔭 Vision & Aspirations</h3>
-<p align="center">
-    🎨 Inspired by Anime & Light Novels  
-    💡 Aspiring to Merge Creativity with Cutting-Edge Tech  
-    🌍 Dreaming of AI-Enhanced Virtual Worlds that Transform Experiences  
-</p>
-
----
-
-<h3 align="center">🌈 Future Horizons</h3>
-<p align="center">
-    🧭 Guided by AI to a Future Where Technology Equals Positive Impact  
-    👥 Eager to Collaborate and Shape a Visionary Tech-Driven World  
-</p>
-
----
-
-<h3 align="center">🔗 Connect & Collaborate</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/hariesh-r">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-    </a>
-    <!-- Uncomment and replace 'LINK_TO_YOUR_TWITTER' with your Twitter link
-    <a href="LINK_TO_YOUR_TWITTER">
-        <img src="https://img.shields.io/badge/-Twitter-1C9CEA?style=for-the-badge&logo=Twitter&logoColor=white" />
-    </a>
-    -->
-</p>
-
----
-
 <div>
     <!-- GitHub Stats -->
     <a href="https://github.com/Hariesh-Kai">
@@ -79,4 +38,44 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" style="width: 42%; float: right;" />
     </a>
 </div>
+---
+<h3 align="Left">🔗 Connect & Collaborate</h3>
+<p align="Left">
+    <a href="https://www.linkedin.com/in/hariesh-r">
+        <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+    </a>
+    <!-- Uncomment and replace 'LINK_TO_YOUR_TWITTER' with your Twitter link
+    <a href="LINK_TO_YOUR_TWITTER">
+        <img src="https://img.shields.io/badge/-Twitter-1C9CEA?style=for-the-badge&logo=Twitter&logoColor=white" />
+    </a>
+    -->
+</p>
+---
+
+<h3 align="Left">🌠 Current Adventures in AI</h3>
+<p align="Left">
+    🌌 Deep Diving into <strong>Deep Learning</strong>, Virtual & Augmented Realities  
+    🤖 Passionate about Human-Computer Interaction and ethical AI  
+    🛡️ Championing Responsible and Transformative Technologies  
+</p>
+
+---
+
+<h3 align="Left">🔭 Vision & Aspirations</h3>
+<p align="Left">
+    🎨 Inspired by Anime & Light Novels  
+    💡 Aspiring to Merge Creativity with Cutting-Edge Tech  
+    🌍 Dreaming of AI-Enhanced Virtual Worlds that Transform Experiences  
+</p>
+
+---
+
+<h3 align="Left">🌈 Future Horizons</h3>
+<p align="Left">
+    🧭 Guided by AI to a Future Where Technology Equals Positive Impact  
+    👥 Eager to Collaborate and Shape a Visionary Tech-Driven World  
+</p>
+
+---
+
 
