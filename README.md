@@ -29,6 +29,10 @@
 </p>
 
 ---
+<div align="center">
+    <h2>📊 My GitHub Statistics and Language Breakdown 📊</h2>
+</div>
+
 <div>
     <!-- GitHub Stats -->
     <a href="https://github.com/Hariesh-Kai">
