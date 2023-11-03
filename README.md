@@ -31,12 +31,14 @@
 
 <div >
     <h2>📊 GitHub Statistics</h2>
-    <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" width="495px" />
-    </a>
-    <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" width="395px" />
-    </a>
+        <div align="center">
+        <a href="https://github.com/Hariesh-Kai">
+            <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" height="200px" />
+        </a>
+        <a href="https://github.com/Hariesh-Kai">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages"  height="200px/>
+        </a>
+    </div>
 </div>
 
 <hr>
