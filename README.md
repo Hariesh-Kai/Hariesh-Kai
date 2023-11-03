@@ -67,5 +67,9 @@
     <a href="https://www.linkedin.com/in/hariesh-r">
         <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
+     <a href="https://leetcode.com/HarieshKai/">
+        <img src="https://img.shields.io/badge/LeetCode-HarieshKai-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
+     </a>
+
     <!-- Add more connections if needed -->
 </div>
