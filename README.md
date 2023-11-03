@@ -70,6 +70,4 @@
      <a href="https://leetcode.com/HarieshKai/">
         <img src="https://img.shields.io/badge/LeetCode-HarieshKai-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
      </a>
-
-    <!-- Add more connections if needed -->
 </div>
