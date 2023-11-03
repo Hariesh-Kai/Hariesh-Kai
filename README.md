@@ -1,30 +1,36 @@
 <div align="center">
-    <h2>✨🌌 Welcome to Hariesh's AI Odyssey 🌌✨</h2>
-    <h3>🚀 Embark on a Stellar Journey Through AI & Machine Learning 🌠</h3>
+    <h2>✨ Welcome to Hariesh's AI Odyssey ✨</h2>
+    <h3>Embark on a Stellar Journey Through the Cosmos of Code</h3>
     <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px"/>
-    <br><br>
 </div>
 
-## 🌐 Meet Hariesh: AI Maverick & Visionary Artisan 🖥️🎨
-<div align="center">
-    🎓 <b>Sculpting the Future with Artificial Intelligence & Creative Innovation</b><br>
-    🏫 Manifesting Dreams into Reality at Kongu Engineering College<br>
-    🎯 Anticipated Voyage Completion: 2025<br>
-    🌱 Navigating the Vastness of AI & ML, One Quantum Leap at a Time
-    <br><br>
+<hr>
+
+<div>
+    <h2>🌐 About Me</h2>
+    <p>I'm an AI Enthusiast and a third-year student at Kongu Engineering College, graduating in 2025. Join me as I explore the endless possibilities of Artificial Intelligence and Machine Learning!</p>
 </div>
 
-<h3 align="center">🛠️ Hariesh's Technological Arsenal 🛠️</h3>
-<div align="center">
-    <!-- Tech Badges -->
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+<hr>
+
+<div >
+    <h2>🛠️ My Technological Arsenal </h2>
+     <div>
+         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+         <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
+         <img src="https://img.shields.io/badge/-Deep%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
+        <img src="https://img.shields.io/badge/-Data%20Structures-FFCA28?style=for-the-badge&logo=algorithm&logoColor=black" alt="Data Structures Badge"/>
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
     <!-- More badges -->
-    <br><br>
+         <hr style="height:2px;border-width:0;color:gray;background-color:gray">
+     </div>
 </div>
 
-<h2 align="center">📈 Dive into Hariesh's GitHub Analytics 📊</h2>
-<div align="center" style="display: flex; justify-content: space-around; align-items: flex-start; flex-wrap: wrap;">
+<hr>
+
+<div >
+    <h2>📊 GitHub Statistics</h2>
     <a href="https://github.com/Hariesh-Kai">
         <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" width="495px" />
     </a>
@@ -32,36 +38,34 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" width="395px" />
     </a>
 </div>
-<br>
 
-<div align="center">
-    <h3>🤝 Let's Connect & Craft the Future Together 🚀</h3>
+<hr>
+
+<div >
+    <h2>🌱 Current Learning</h2>
+    <p>Currently, I'm deep diving into Deep Learning, exploring Virtual & Augmented Realities, and understanding the importance of responsible AI development.</p>
+</div>
+
+<hr>
+
+<div >
+    <h2>💼 Professional Journey</h2>
+    <p>As a student, I'm working on various projects that incorporate AI and ML to solve real-world problems. I am also actively seeking internships to apply my skills in a professional setting.</p>
+</div>
+
+<hr>
+
+<div >
+    <h2>🔭 Future Goals</h2>
+    <p>In the future, I aspire to be at the forefront of AI research, contributing to projects that have a significant positive impact on society.</p>
+</div>
+
+<hr>
+
+<div >
+    <h2>🤝 Connect with Me</h2>
     <a href="https://www.linkedin.com/in/hariesh-r">
         <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
     </a>
-    <!-- Additional links as needed -->
-    <br><br>
-</div>
-
-<h3 align="center">🌠 Current Adventures in AI</h3>
-<div align="center">
-    🌌 Deep Diving into <strong>Deep Learning</strong>, Virtual & Augmented Realities<br>
-    🤖 Passionate about Human-Computer Interaction and ethical AI<br>
-    🛡️ Championing Responsible and Transformative Technologies
-    <br><br>
-</div>
-
-<h3 align="center">🔭 Vision & Aspirations</h3>
-<div align="center">
-    🎨 Inspired by Anime & Light Novels<br>
-    💡 Aspiring to Merge Creativity with Cutting-Edge Tech<br>
-    🌍 Dreaming of AI-Enhanced Virtual Worlds that Transform Experiences
-    <br><br>
-</div>
-
-<h3 align="center">🌈 Future Horizons</h3>
-<div align="center">
-    🧭 Guided by AI to a Future Where Technology Equals Positive Impact<br>
-    👥 Eager to Collaborate and Shape a Visionary Tech-Driven World
-    <br><br>
+    <!-- Add more connections if needed -->
 </div>
