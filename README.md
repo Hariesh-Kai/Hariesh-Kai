@@ -1,7 +1,7 @@
 <div align="center">
     <h2>✨ Welcome to Hariesh's AI Odyssey ✨</h2>
     <h3>Embark on a Stellar Journey Through the Cosmos of Code</h3>
-    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300px"/>
+    <img src="https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif?cid=ecf05e47nvf87sgxl8pxfcwc6pzj3lypeclfc7flwfsr6gnp&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300px"/>
 </div>
 
 <hr>
