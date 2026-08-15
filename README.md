@@ -47,6 +47,10 @@ Software
 ├── APIs
 └── AI Infrastructure
 
+I enjoy taking a problem, understanding it deeply, and turning it into
+something that actually works.
+
+---
 
 # 🚀 What I'm Working On
 
@@ -108,4 +112,31 @@ Typical stack:
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>****
+</p>
+
+---
+
+# 🔥 Things I've Built
+
+## 🤖 RAG Platform
+
+A document-based AI system designed around technical documents.
+
+```text
+Document
+   ↓
+Parsing
+   ↓
+Chunking
+   ↓
+Metadata
+   ↓
+Embeddings
+   ↓
+PGVector
+   ↓
+Retrieval
+   ↓
+LLM
+   ↓
+Context-aware Response
