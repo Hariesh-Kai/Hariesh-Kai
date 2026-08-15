@@ -1,73 +1,301 @@
 <div align="center">
-    <h2>✨ Welcome to Hariesh's AI Odyssey ✨</h2>
-    <h3>Embark on a Stellar Journey Through the Cosmos of Code</h3>
-    <img src="https://media.giphy.com/media/5rT8xqVLpB6S6Ej89o/giphy.gif?cid=790b76111xk67yrlcr0q0nv413hktehsedszib46uvs53wbj&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="auto"/>
+
+# Hariesh Ramesh
+
+### AI Developer • Python • RAG/LLMs • Backend Engineering • Engineering Software
+
+<p>
+Building AI systems and engineering software that turn complex data into useful tools.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/hariesh-r">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/HarieshKai/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="mailto:harieshkai@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
-<hr>
+---
 
-<div>
-    <h2>🌐 About Me</h2>
-    <p>I'm an AI Enthusiast and a third-year student at Kongu Engineering College, graduating in 2025. Join me as I explore the endless possibilities of Artificial Intelligence and Machine Learning!</p>
+## 👋 About Me
+
+I'm an **AI Developer** focused on building practical AI systems and engineering software.
+
+My current work sits at the intersection of:
+
+- 🤖 AI / Machine Learning
+- 🧠 RAG and LLM applications
+- 🐍 Python backend engineering
+- 📄 Document intelligence
+- 🖥️ Desktop engineering software
+- 📐 CAD and engineering visualization
+- 🔗 Engineering-data integration
+
+I enjoy taking a problem from **idea → architecture → implementation → working software**.
+
+Currently, I work on AI and engineering applications involving **Python, FastAPI, PostgreSQL, PGVector, Redis, MinIO, PySide6, Qt, and LLM pipelines**.
+
+---
+
+## 🚀 What I'm Building
+
+### 🧠 AI & RAG Systems
+
+Building document-based AI systems that can understand, retrieve, and reason over technical information.
+
+**Current areas:**
+
+- Retrieval-Augmented Generation
+- LLM pipelines
+- Semantic search
+- Vector databases
+- Document processing
+- Metadata extraction
+- Context-aware retrieval
+- Intent routing
+- Streaming AI responses
+
+**Stack**
+
+`Python` `FastAPI` `PostgreSQL` `PGVector` `Redis` `MinIO`
+
+---
+
+### 📐 Engineering CAD Software
+
+Developing engineering-focused CAD software using Python and Qt.
+
+Working with:
+
+- PySide6
+- Qt Graphics
+- QPainter
+- QPainterPath
+- Geometry
+- Curves
+- Custom engineering symbols
+- Reusable graphics components
+
+The goal is to build engineering software that is both **technically accurate and highly reusable**.
+
+---
+
+### 🔧 Engineering Data Integration
+
+Working with engineering formats and tools including:
+
+`AVEVA E3D` `CAESAR II` `PCF` `CII`
+
+Building parsers, model builders, validation systems, comparison workflows, and engineering-data pipelines.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logo=yolo&logoColor=white"/>
+</p>
+
+### Backend / Infrastructure
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+</p>
+
+### Frontend / Desktop
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+</p>
+
+### Engineering
+
+<p>
+<img src="https://img.shields.io/badge/CAD-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AVEVA%20E3D-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAESAR%20II-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PCF-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CII-1F2937?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔥 Featured Work
+
+### Engineering RAG Platform
+
+A document intelligence platform for technical documents.
+
+**Capabilities**
+
+- PDF ingestion
+- Document parsing
+- Chunking
+- Metadata enrichment
+- Embeddings
+- PGVector retrieval
+- RAG pipelines
+- LLM response generation
+- Streaming chat
+- Redis caching
+
+**Technology**
+
+`Python` `FastAPI` `PostgreSQL` `PGVector` `Redis` `MinIO` `Next.js`
+
+---
+
+### Engineering CAD Application
+
+A Python/PySide6 CAD application focused on engineering visualization.
+
+**Core work**
+
+- Custom CAD symbols
+- Geometry-based rendering
+- QPainter
+- QPainterPath
+- Curves
+- Reusable graphics components
+- Engineering visualization
+
+---
+
+### AVEVA E3D ↔ CAESAR II Integration
+
+Prototype engineering integration workflow involving:
+
+- PCF parsing
+- Engineering data extraction
+- Schema construction
+- Model comparison
+- Validation
+- Report generation
+
+---
+
+### CII Viewer & Parser
+
+Engineering file parser and model builder supporting:
+
+- Nodes
+- Elements
+- Pipes
+- Relationships
+- Validation
+- Engineering properties
+
+Built with Python and FastAPI.
+
+---
+
+## 🧪 Machine Learning Projects
+
+### 🧬 Drug Addiction Prediction
+
+Machine-learning classification project using:
+
+`Decision Tree` `SMOTE`
+
+Achieved approximately **91% accuracy**.
+
+---
+
+### 🎮 Game-Based Student Performance Prediction
+
+Student-performance prediction using:
+
+`TensorFlow Decision Forests`
+
+Achieved approximately **0.7469 accuracy**.
+
+---
+
+### 🎵 Emotion-Based Music Recommender
+
+AI-powered application combining emotion detection and music recommendation.
+
+Technology included:
+
+`TensorFlow` `Streamlit` `DeepFace` `OpenCV`
+
+---
+
+## 📚 Research
+
+### Yoga Pose Recognition and Correction Using Deep Learning
+
+Published at **ICCCNT 2024**.
+
+The project focused on applying deep learning to yoga-pose recognition and correction.
+
+🔗 [DBLP](https://dblp.org/pid/332/9355)
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&hide_border=true&rank_icon=github&theme=transparent"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&hide_border=true&theme=transparent"/>
+
 </div>
 
-<hr>
+---
 
-<div >
-    <h2>🛠️ My Technological Arsenal </h2>
-     <div>
-         <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-         <img src="https://img.shields.io/badge/-Java-E34F26?style=for-the-badge&logo=java&logoColor=white" />
-         <img src="https://img.shields.io/badge/-Deep%20Learning-007ACC?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Deep Learning Badge"/>
-        <img src="https://img.shields.io/badge/-Data%20Structures-FFCA28?style=for-the-badge&logo=algorithm&logoColor=black" alt="Data Structures Badge"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
-    <!-- More badges -->
-         <hr style="height:2px;border-width:0;color:gray;background-color:gray">
-     </div>
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariesh-Kai&theme=github-compact&hide_border=true"/>
+
 </div>
 
-<hr>
+---
 
-<div align="centre">
-    <h2 align="left">📊 GitHub Statistics</h2>
-      <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-stats.vercel.app/api?username=Hariesh-Kai&show_icons=true&theme=radical" alt="Hariesh's GitHub Stats" style="width: 48%; float: left;" />
-    </a>
-    <a href="https://github.com/Hariesh-Kai">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariesh-Kai&layout=compact&theme=radical" alt="Hariesh's Most Used Languages" style="width: 42%; float: right;" />
-    </div>
-</div>
+## 🎯 Current Focus
 
-<hr>
-
-<div >
-    <h2>🌱 Current Learning</h2>
-    <p>Currently, I'm deep diving into Deep Learning, exploring Virtual & Augmented Realities, and understanding the importance of responsible AI development.</p>
-</div>
-
-<hr>
-
-<div >
-    <h2>💼 Professional Journey</h2>
-    <p>As a student, I'm working on various projects that incorporate AI and ML to solve real-world problems. I am also actively seeking internships to apply my skills in a professional setting.</p>
-</div>
-
-<hr>
-
-<div >
-    <h2>🔭 Future Goals</h2>
-    <p>In the future, I aspire to be at the forefront of AI research, contributing to projects that have a significant positive impact on society.</p>
-</div>
-
-<hr>
-
-<div >
-    <h2>🤝 Connect with Me</h2>
-    <a href="https://www.linkedin.com/in/hariesh-r">
-        <img src="https://img.shields.io/badge/-LinkedIn-0072B1?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-    </a>
-     <a href="https://leetcode.com/HarieshKai/">
-        <img src="https://img.shields.io/badge/LeetCode-HarieshKai-ffa116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode profile"/>
-     </a>
-</div>
+```text
+AI Engineering
+      │
+      ├── RAG Systems
+      ├── LLM Applications
+      ├── Document Intelligence
+      ├── Vector Search
+      │
+Engineering Software
+      │
+      ├── CAD
+      ├── Qt / PySide6
+      ├── Engineering Visualization
+      └── Engineering Data Integration
