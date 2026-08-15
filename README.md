@@ -1,26 +1,17 @@
-<div align="center">
-
 # 👋 Hey, I'm Hariesh Ramesh
 
 ### 🤖 AI Developer | 🐍 Python | 🧠 RAG & LLMs | ⚡ Backend Development
 
-<p>
-  I build AI systems, machine learning applications, and software tools.
-</p>
+I build AI systems, machine learning applications, and software tools.
 
 <p>
   <a href="https://www.linkedin.com/in/hariesh-r">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/HarieshKai/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:harieshkai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
-
-</div>
 
 ---
 
@@ -48,81 +39,52 @@ Software
 └── AI Infrastructure
 ```
 
-I enjoy taking a problem, understanding it deeply, and turning it into
-something that actually works.
+I enjoy taking a problem, understanding it deeply, and turning it into something that actually works.
 
+🚀 What I'm Working On
+🧠 RAG & AI Systems
 
-# 🚀 What I'm Working On
-
-## 🧠 RAG & AI Systems
-
-I'm building AI systems that can work with real documents rather than
-just simple chatbot prompts.
+I'm building AI systems that can work with real documents rather than just simple chatbot prompts.
 
 Things I work with:
 
-- 📄 PDF and document processing
-- ✂️ Intelligent chunking
-- 🧾 Metadata extraction
-- 🧠 Embeddings
-- 🔎 Semantic search
-- 🗄️ PGVector
-- 🤖 LLM pipelines
-- 💬 Context-aware chat
-- ⚡ Streaming responses
-- 🧭 Intent routing
+📄 PDF and document processing
+✂️ Intelligent chunking
+🧾 Metadata extraction
+🧠 Embeddings
+🔎 Semantic search
+🗄️ PGVector
+🤖 LLM pipelines
+💬 Context-aware chat
+⚡ Streaming responses
+🧭 Intent routing
 
 Typical stack:
 
-`Python` `FastAPI` `PostgreSQL` `PGVector` `Redis` `MinIO`
+Python FastAPI PostgreSQL PGVector Redis MinIO
 
----
+🛠️ My Toolbox
+Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,javascript" /> </p>
+AI / Machine Learning
+<p> <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" /> </p>
 
-# 🛠️ My Toolbox
+Scikit-learn Keras YOLO DeepFace Gensim NLTK
 
-## Languages
+Backend
+<p> <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
+PGVector MinIO REST APIs SQLAlchemy
 
-## AI / Machine Learning
-
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
-
-`Scikit-learn` `Keras` `YOLO` `DeepFace` `Gensim` `NLTK`
-
-## Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis,docker" />
-</p>
-
-`PGVector` `MinIO` `REST APIs` `SQLAlchemy`
-
-## Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-## Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
-</p>
-
----
-
-# 🔥 Things I've Built
-
-## 🤖 RAG Platform
+Frontend
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" /> </p>
+Tools
+<p> <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" /> </p>
+🔥 Things I've Built
+🤖 RAG Platform
 
 A document-based AI system designed around technical documents.
 
-```text
 Document
    ↓
 Parsing
@@ -140,3 +102,11 @@ Retrieval
 LLM
    ↓
 Context-aware Response
+
+Built with:
+
+Python FastAPI PostgreSQL PGVector Redis MinIO
+
+
+
+**This is valid GitHub Markdown.** The important fixes are that the `AI / Software` code block is closed befo
