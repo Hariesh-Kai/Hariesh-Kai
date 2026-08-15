@@ -50,7 +50,6 @@ Software
 I enjoy taking a problem, understanding it deeply, and turning it into
 something that actually works.
 
----
 
 # 🚀 What I'm Working On
 
